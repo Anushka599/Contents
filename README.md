@@ -8,3 +8,5 @@ Here’s what you’ll find on my GitHub:
 - 📘 **DSA Practice** – Solutions to LeetCode, GFG, and NeetCode problems   
 - 🧠 **ML/AI Practice** – Basic ML notebooks and experiments (coming soon)  
 
+hello!this is me
+12345678901
